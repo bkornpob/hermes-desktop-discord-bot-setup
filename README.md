@@ -42,7 +42,7 @@ related:
 	- [ ] toggle on 'Guild Install'
 	- [ ] add 'bot' to Default Install Settings > Guild Install
 	- [ ] save the 'Install Link' (given Discord Provided Link selected)
-![[Pasted image 20260521012513.png]]
+![](Pasted%20image%2020260521012513.png)
 - [ ] **Verify values for the next step:**
 	- [ ] Discord Bot Token < Bot tab in discord.com/developers/applications
 	- [ ] Discord Install Link < Installation tab
